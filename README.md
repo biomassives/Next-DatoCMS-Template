@@ -14,7 +14,7 @@ Contains examples of how to use DatoCMS Metatags for SEO, StructuredText, Modula
 - datocms full text search
 - map sample block
 
-![preview](https://www.datocms-assets.com/47575/1625869520-screenshot-2021-07-10-at-00-24-19.png)
+
 
 repository: [https://github.com/lorezz/next-datocms-template](https://github.com/lorezz/next-datocms-template)
 
