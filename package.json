@@ -1,11 +1,11 @@
 {
-  "name": "next-datocms-template",
+  "name": "mama-watoto-africa",
   "version": "0.1.0",
   "keywords": [],
-  "author": "Lorenzo Ponticelli aka Lorezz <point.point@gmail.com> (https://lorezz.me/)",
+  "author": "Greg Willson <acmeideal@gmail.com> (https://scdhub.org/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lorezz/Next-DatoCMS-Template.git"
+    "url": "https://github.com/biomassives/Next-DatoCMS-Template.git"
   },
   "license": "MIT",
   "scripts": {
