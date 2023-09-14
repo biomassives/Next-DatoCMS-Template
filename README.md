@@ -1,4 +1,4 @@
-# Next-DatoCMS-Template
+# Mamawatoto dot Africa via Next-DatoCMS-Template
 
 A free to use DatoCMS template and an open-source Next.js sample to create a complete site. You can duplicate this template and deploy the frontend from GitHub.
 
