@@ -49,7 +49,7 @@ const t = {
         boxSizing: 'border-box'
       },
       a: {
-        color: props.colorMode === 'dark' ? 'green.200' : 'purple.400',
+        color: props.colorMode === 'dark' ? 'green.300' : 'purple.500',
         textDecoration: 'none',
         fontSize: 'xl'
       },
