@@ -1,6 +1,10 @@
 # Mamawatoto dot Africa via Next-DatoCMS-Template
 
-A free to use DatoCMS template and an open-source Next.js sample to create a complete site. You can duplicate this template and deploy the frontend from GitHub.
+This website supports the work of Mama Watoto Africa in collaboration
+with SCD Hub, a 501c3 non profit from Nederland, Colorado USA
+
+
+The system we use is powered by a free content management system - DatoCMS , and Open-source Next.js sample to create a complete site. You can duplicate this template and deploy the frontend from GitHub.
 
 This project uses [Chackra Ui](https://chakra-ui.com/) as Ui library, and cotains some samples block from [Chakra Templates](https://chakra-templates.dev/) .
 
