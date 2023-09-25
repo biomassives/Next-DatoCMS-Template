@@ -1,8 +1,8 @@
 {
-  "name": "Next DatoCMS Template",
-  "description": "A free DatoCMS template with frontend code blocks to create a complete site. You can duplicate this template and deploy the frontend from GitHub",
+  "name": "Mamawatoto Africa",
+  "description": "Improve access to good education, hygiene, water and sanitation, food quality, air quality, soil quality, circularity. ",
   "previewImage": "https://www.datocms-assets.com/47575/1625869520-screenshot-2021-07-10-at-00-24-19.png",
-  "repo": "Lorezz/Next-DatoCMS-Template",
+  "repo": "biomassives/Next-DatoCMS-Template",
   "datocmsProjectId": "47575",
   "deploymentType": "static",
   "datocmsApiTokenEnvName": "NEXT_PUBLIC_DATO_KEY",
