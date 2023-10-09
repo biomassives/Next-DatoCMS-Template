@@ -2,8 +2,8 @@
   "name": "Ecocity Project Transparency Portal",
   "description": "Improve education on hygiene, water and sanitation, food quality, air quality, soil quality, economic circularity, traditional wisdom, biodiversity preservation, identify and nurture ecological biomes",
   "previewImage": "https://www.datocms-assets.com/47575/1625869520-screenshot-2021-07-10-at-00-24-19.png",
-  "repo": "biomassives/Next-DatoCMS-Template",
-  "datocmsProjectId": "47575",
+  "repo": "biomassives/Next-DatoCMS-Template/blob/ecocity-datocms/",
+  "datocmsProjectId": "63170",
   "deploymentType": "static",
   "datocmsApiTokenEnvName": "NEXT_PUBLIC_DATO_KEY",
   "buildCommand": "yarn build"
